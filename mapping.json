@@ -1,0 +1,194 @@
+{
+  "speakleash/Bielik-1.5B-v3.0-Instruct-GGUF:Q8_0": {
+    "digest": "sha256:e206ebbd9ee00cc8f14af5a096ad3f193a59608c63905316e8dc680c96655a60",
+    "vendor": "speakleash"
+  },
+  "speakleash/Bielik-11B-v2.6-Instruct-GGUF:Q5_K_M": {
+    "digest": "sha256:8442082c8023dbdcc6c2dc191f0aacb244288c882cf9cf98f3452d2e409c7f33",
+    "vendor": "speakleash"
+  },
+  "speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_0": {
+    "digest": "sha256:562f2291de257890adf2b4a914da8b194affe6a7a838a6b7ef3d342f306c1b7f",
+    "vendor": "speakleash"
+  },
+  "NikolayKozloff/PLLuM-12B-instruct-Q5_K_M-GGUF:latest": {
+    "digest": "sha256:6a4b996baa46a5e1832011d997802a6b956c6ab606be11c9313d47b6732f3978",
+    "vendor": "NikolayKozloff"
+  },
+  "pswitala/pllum-8b-instruct-q5_k_m_gguf:latest": {
+    "digest": "sha256:08bf7d0481da44508f00763feee3f562cf85f5eb425a99ff6438d8f0506cdad9",
+    "vendor": "pswitala"
+  },
+  "speakleash/Bielik-11B-v2.3-Instruct-GGUF:latest": {
+    "digest": "sha256:0eb3021a19e5e934317256eb132d738a881778e3288f9742e7c1e651762d1518",
+    "vendor": "speakleash"
+  },
+  "Triangle104/OpenReasoning-Nemotron-7B-Q5_K_M-GGUF:latest": {
+    "digest": "sha256:aa3d6ec8e43f9d27f1f6e58b41f00da777ce33d671b5fa163e99c1bdd07eb51d",
+    "vendor": "Triangle104"
+  },
+  "unsloth/Mistral-Small-3.1-24B-Instruct-2503-GGUF:Q4_K_M": {
+    "digest": "sha256:6d145c00add2821d03afb5d2b3fedeaa9290dbce3d8fa109b548fba1116ae6b9",
+    "vendor": "unsloth"
+  },
+  "command-r7b:latest": {
+    "digest": "sha256:b32d935e114cce540d0d36b093b80ef8e4880c63068147a86e6e19f613a0b6f6",
+    "vendor": "library"
+  },
+  "deepseek-r1:32b": {
+    "digest": "sha256:6150cb382311b69f09cc0f9a1b69fc029cbd742b66bb8ec531aa5ecf5c613e93",
+    "vendor": "library"
+  },
+  "deepseek-r1:8b": {
+    "digest": "sha256:e6a7edc1a4d7d9b2de136a221a57336b76316cfe53a252aeba814496c5ae439d",
+    "vendor": "library"
+  },
+  "gemma:latest": {
+    "digest": "sha256:ef311de6af9db043d51ca4b1e766c28e0a1ac41d60420fed5e001dc470c64b77",
+    "vendor": "library"
+  },
+  "gemma2:9b": {
+    "digest": "sha256:ff1d1fc78170d787ee1201778e2dd65ea211654ca5fb7d69b5a2e7b123a50373",
+    "vendor": "library"
+  },
+  "gemma2:latest": {
+    "digest": "sha256:ff1d1fc78170d787ee1201778e2dd65ea211654ca5fb7d69b5a2e7b123a50373",
+    "vendor": "library"
+  },
+  "gemma3:12b": {
+    "digest": "sha256:e8ad13eff07a78d89926e9e8b882317d082ef5bf9768ad7b50fcdbbcd63748de",
+    "vendor": "library"
+  },
+  "gemma3:1b": {
+    "digest": "sha256:7cd4618c1faf8b7233c6c906dac1694b6a47684b37b8895d470ac688520b9c01",
+    "vendor": "library"
+  },
+  "gemma3:27b": {
+    "digest": "sha256:e796792eba26c4d3b04b0ac5adb01a453dd9ec2dfd83b6c59cbf6fe5f30b0f68",
+    "vendor": "library"
+  },
+  "gemma3:4b": {
+    "digest": "sha256:aeda25e63ebd698fab8638ffb778e68bed908b960d39d0becc650fa981609d25",
+    "vendor": "library"
+  },
+  "gemma3:latest": {
+    "digest": "sha256:aeda25e63ebd698fab8638ffb778e68bed908b960d39d0becc650fa981609d25",
+    "vendor": "library"
+  },
+  "gemma3n:e2b": {
+    "digest": "sha256:3839a254cf2d00b208c6e2524c129e4438f9d106bba4c3fbc12b631f519d1de1",
+    "vendor": "library"
+  },
+  "gemma3n:latest": {
+    "digest": "sha256:38e8dcc30df4eb0e29eaf5c74ba6ce3f2cd66badad50768fc14362acfb8b8cb6",
+    "vendor": "library"
+  },
+  "gpt-oss:20b": {
+    "digest": "sha256:b112e727c6f18875636c56a779790a590d705aec9e1c0eb5a97d51fc2a778583",
+    "vendor": "library"
+  },
+  "llama3.1:8b": {
+    "digest": "sha256:8eeb52dfb3bb9aefdf9d1ef24b3bdbcfbe82238798c4b918278320b6fcef18fe",
+    "vendor": "library"
+  },
+  "llama3.2:latest": {
+    "digest": "sha256:dde5aa3fc5ffc17176b5e8bdc82f587b24b2678c6c66101bf7da77af9f7ccdff",
+    "vendor": "library"
+  },
+  "llama3.3:latest": {
+    "digest": "sha256:4824460d29f2058aaf6e1118a63a7a197a09bed509f0e7d4e2efb1ee273b447d",
+    "vendor": "library"
+  },
+  "llava:latest": {
+    "digest": "sha256:170370233dd5c5415250a2ecd5c71586352850729062ccef1496385647293868",
+    "vendor": "library"
+  },
+  "mistral:latest": {
+    "digest": "sha256:e8a35b5937a5e6d5c35d1f2a15f161e07eefe5e5bb0a3cdd42998ee79b057730",
+    "vendor": "library"
+  },
+  "mistral-nemo:latest": {
+    "digest": "sha256:b559938ab7a0392fc9ea9675b82280f2a15669ec3e0e0fc491c9cb0a7681cf94",
+    "vendor": "library"
+  },
+  "nomic-embed-text:latest": {
+    "digest": "sha256:970aa74c0a90ef7482477cf803618e776e173c007bf957f635f1015bfcfef0e6",
+    "vendor": "library"
+  },
+  "phi3:latest": {
+    "digest": "sha256:4fed7364ee3e0c7cb4fe0880148bfdfcd1b630981efa0802a6b62ee52e7da97e",
+    "vendor": "library"
+  },
+  "phi3:medium": {
+    "digest": "sha256:7a3cc4804c645959a6734971b87607bc7eb2a2ed3e3adf3ad221f12b79dadff8",
+    "vendor": "library"
+  },
+  "phi3.5:latest": {
+    "digest": "sha256:b5374915da534cb93df39f03bd4f2cd5a0c533df0d5e21957dc9556c260be9eb",
+    "vendor": "library"
+  },
+  "phi4:latest": {
+    "digest": "sha256:fd7b6731c33c57f61767612f56517460ec2d1e2e5a3f0163e0eb3d8d8cb5df20",
+    "vendor": "library"
+  },
+  "phi4-mini-reasoning:latest": {
+    "digest": "sha256:f4dd2368e6c32725dc1c5c5548ae9ee2724d6a79052952eb50b65e26288022c4",
+    "vendor": "library"
+  },
+  "phi4-reasoning:latest": {
+    "digest": "sha256:89f38c5f78de6092c203b63dd62ff1285276a6f8ee140dd1eb2f6e196a631f40",
+    "vendor": "library"
+  },
+  "qwen2.5:1.5b": {
+    "digest": "sha256:183715c435899236895da3869489cc30ac241476b4971a20285b1a462818a5b4",
+    "vendor": "library"
+  },
+  "qwen2.5:3b": {
+    "digest": "sha256:5ee4f07cdb9beadbbb293e85803c569b01bd37ed059d2715faa7bb405f31caa6",
+    "vendor": "library"
+  },
+  "qwen2.5:7b": {
+    "digest": "sha256:2bada8a7450677000f678be90653b85d364de7db25eb5ea54136ada5f3933730",
+    "vendor": "library"
+  },
+  "qwen2.5-coder:1.5b-base": {
+    "digest": "sha256:6a77366395772462c84f0c4d226ac404674327cbe78c01e4391cc7e0c698851e",
+    "vendor": "library"
+  },
+  "qwen2.5-coder:7b": {
+    "digest": "sha256:60e05f2100071479f596b964f89f510f057ce397ea22f2833a0cfe029bfc2463",
+    "vendor": "library"
+  },
+  "qwen3:1.7b": {
+    "digest": "sha256:3d0b790534fe4b79525fc3692950408dca41171676ed7e21db57af5c65ef6ab6",
+    "vendor": "library"
+  },
+  "qwen3:14b": {
+    "digest": "sha256:a8cc1361f3145dc01f6d77c6c82c9116b9ffe3c97b34716fe20418455876c40e",
+    "vendor": "library"
+  },
+  "qwen3:30b": {
+    "digest": "sha256:e9183b5c18a0cf736578c1e3d1cbd4b7e98e3ad3be6176b68c20f156d54a07ac",
+    "vendor": "library"
+  },
+  "qwen3:32b": {
+    "digest": "sha256:3291abe70f16ee9682de7bfae08db5373ea9d6497e614aaad63340ad421d6312",
+    "vendor": "library"
+  },
+  "qwen3:4b": {
+    "digest": "sha256:163553aea1b1de62de7c5eb2ef5afb756b4b3133308d9ae7e42e951d8d696ef5",
+    "vendor": "library"
+  },
+  "qwen3:8b": {
+    "digest": "sha256:a3de86cd1c132c822487ededd47a324c50491393e6565cd14bafa40d0b8e686f",
+    "vendor": "library"
+  },
+  "qwen3-coder:latest": {
+    "digest": "sha256:1194192cf2a187eb02722edcc3f77b11d21f537048ce04b67ccf8ba78863006a",
+    "vendor": "library"
+  },
+  "smollm:latest": {
+    "digest": "sha256:6cafb858555d127ccd7d35ecb42208b021204b8351699685af75fc8f7d8c25d5",
+    "vendor": "library"
+  }
+}
